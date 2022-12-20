@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
+subtitle: # <a href='#'>Affiliations</a>. 
 
 profile:
   align: right
@@ -25,7 +25,7 @@ literate in a variety of other fields, including physics and linguistics.
 
 I also think a lot about pedagogy and communication in math, and how to bridge 
 the gap between intuitive reasoning and rigorous, formal reasoning. 
-I help grade for the MATH 2230/MATH 2240 sequence at Cornell, which gives
+I grade for the MATH 2230/MATH 2240 sequence at Cornell, which gives
 first-year students a rigorous understanding of linear algebra and 
 multivariable calculus (alongside exposure to many other mathematical
 disciplines, including real analysis and differential geometry) 
@@ -37,6 +37,6 @@ executive board for Cornell Dancers' Alliance, supporting dance teams on campus
 and holding events that bring the dance community at Cornell together. Other interests
 include karate, ultimate frisbee, and puzzle hunts. 
 
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[comment]: <> (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit] http://reddit.com. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
 
