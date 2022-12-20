@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - blu-bird
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - blu-bird/blubird
+  - cyankaet/rathunt
+  - blu-bird/lectures
+  - Unimath/agda-unimath
+    #  - alshedivat/al-folio
+    #  - twbs/bootstrap
+    #  - jekyll/jekyll
+    #  - jquery/jquery
+    #  - FortAwesome/Font-Awesome
+    #  - jpswalsh/academicons
+    #  - mathjax/MathJax
