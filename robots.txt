@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://blu-bird.github.io/sitemap.xml
