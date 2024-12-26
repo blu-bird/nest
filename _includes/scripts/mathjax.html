@@ -2,6 +2,7 @@
   <!-- MathJax -->
   <script type="text/javascript">
     window.MathJax = {
+      loader: {load: ['[tex]/amscd']},
       tex: {
         tags: 'ams',
         macros: {
@@ -13,11 +14,17 @@
           FF: "\\mathbb F", 
           KK: "\\mathbb K",
           eps: "\\varepsilon",
+          id: "\\mathrm{id}",
+          cOO: "\\mathcal{O}",
+          mc: ["\\mathcal{ #1 }", 1],
+          iso: "\\cong",
           vphi: "\\varphi",
+          spec: "\\operatorname{Spec}",
           nullset: "\\varnothing",
           floor: ["\\left\\lfloor #1 \\right \\rfloor", 1],
           set: ["\\left\\{ #1 \\right\\}", 1],
           idl: ["\\left\\langle #1 \\right\\rangle", 1],
+          mfk: ["\\mathfrak{ #1 }", 1],
           bmat: ["\\begin{bmatrix} #1 \\end{bmatrix}", 1],
           tbmat: ["\\left[\\begin{smallmatrix} #1 \\end{smallmatrix}\\right]", 1]
         }
